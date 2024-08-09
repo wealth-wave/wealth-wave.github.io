@@ -1,0 +1,24 @@
+{
+    "name": "wealth_wave",
+    "short_name": "wealth_wave",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Investment portfolio and Wealth management",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/icon.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
